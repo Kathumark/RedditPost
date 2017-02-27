@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "Node.js used to post a reddit comment to mongodb",
+  "main": "app.js",
+  "author": {
+    "name": "Stephaniek",
+    "email": "steph@supportme.org.za"
+  }
+}
